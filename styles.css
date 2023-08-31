@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(139, 183, 121);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(190, 27, 27);
+}
+p{
+    border: 2px solid ;
+    color: rgb(81, 53, 157);
+}
+.hightlight {
+    background-color: yellow;
+  }
+#specialtext{
+    color : black;
+    font-size: large;
+    font-style: italic;
+}
+button{
+    background-color: #848d7d; /* Green */
+    border: groove;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    cursor: grab;
+}
